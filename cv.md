@@ -2,30 +2,30 @@
 
 ## Table of Contents
 
-1. [How to Reach Me](#contact)
-2. [About Me](#about)
+1. [How to Reach Me](#how-to-reach-me)
+2. [About Me](#about-me)
 3. [Skills](#skills)
-4. [Sample Code Showcase](#samples)
-5. [Work Experience](#experience)
+4. [Sample Code Showcase](#sample-code-showcase)
+5. [Work Experience](#work-experience)
 6. [Education](#education)
+7. [Languages](#languages)
 
-### How to Reach Me {#contact}
-
+### How to Reach Me
 - **Telegram**: [@nrmkhd](https://t.me/nrmkhd)
 - **LinkedIn**: [/in/nurmukhammed](https://www.linkedin.com/in/nurmukhammed/)
 - **GitHub**: [@nuromirzak](https://github.com/nuromirzak)
 
-### About Me {#about}
+### About Me
 
 I am a senior computer science student specializing in web development. Initially, I developed backend applications using Spring Boot, but over time, I decided to explore frontend development. I find frontend development to be more dynamic and visually engaging, allowing me to see the results of my work instantly. Additionally, I love that the community surrounding frontend development is highly active and welcoming.
 
-### Skills {#skills}
+### Skills
 
 - Java (Spring Boot)
 - Express.js
 - HTML/CSS
 
-### Sample Code Showcase {#samples}
+### Sample Code Showcase
 
 Here I provide solution for problem to find whether the given strings are anagrams or not.
 
@@ -55,21 +55,21 @@ class Solution {
 }
 ```
 
-### Work Experience {#experience}
+### Work Experience
 
 I don't have any work experience yet, but you can see my projects on my GitHub profile.
 
 1. Clone of genius.com for kazakhstani songs: [Aqyndar](https://github.com/nuromirzak/aqyndar)
 2. Clone of pastebin.com: [Sharing codes](https://github.com/nuromirzak/sharing-codes)
 
-### Education {#education}
+### Education
 
 - Astana IT University
     - Bachelor of Computer Science
     - 2021 - 2024 (Expected)
     - GPA: 3.3
 
-### Languages {#languages}
+### Languages
 
 1. English: Intermediate [^1]
 2. Kazakh: Native
